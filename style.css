@@ -6,6 +6,8 @@
 
 body{
     background-color: aquamarine;
+    width: 600px;
+    margin: 0px auto;
 }
 
 h1{
@@ -16,4 +18,5 @@ h1{
 .sonoputin{
     color: red;
     background-color: blue;
+    text-align: center;
 }
